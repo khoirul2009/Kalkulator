@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052055084570",
+    "project_id": "kalkulator-932a2",
+    "storage_bucket": "kalkulator-932a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052055084570:android:5c5736850e9f625a18fba3",
+        "android_client_info": {
+          "package_name": "com.khoirul.kalkulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052055084570-krhl7ahgfllaq07use4hqdv6u4aj20di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMmJl-e8sVmvKtuoIxLDjtZX5YyYRdbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052055084570-krhl7ahgfllaq07use4hqdv6u4aj20di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
